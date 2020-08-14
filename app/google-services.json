@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "376190334610",
+    "firebase_url": "https://test1-7dbcb.firebaseio.com",
+    "project_id": "test1-7dbcb",
+    "storage_bucket": "test1-7dbcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376190334610:android:cc47902da5e28afa1e984b",
+        "android_client_info": {
+          "package_name": "jp.tsumura.takuya.cameradefault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376190334610-ag8ae1oave6upqsjo0plooj4loa3inb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxOu_Fs7VfAsA0vMSMDcMF9Zy8f9Yo5zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376190334610-ag8ae1oave6upqsjo0plooj4loa3inb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376190334610:android:498904104ba101381e984b",
+        "android_client_info": {
+          "package_name": "jp.tsumura.takuya.cameraxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376190334610-ag8ae1oave6upqsjo0plooj4loa3inb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxOu_Fs7VfAsA0vMSMDcMF9Zy8f9Yo5zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376190334610-ag8ae1oave6upqsjo0plooj4loa3inb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376190334610:android:b7f51738b5b8e15c1e984b",
+        "android_client_info": {
+          "package_name": "jp.tsumura.takuya.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376190334610-ag8ae1oave6upqsjo0plooj4loa3inb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxOu_Fs7VfAsA0vMSMDcMF9Zy8f9Yo5zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376190334610-ag8ae1oave6upqsjo0plooj4loa3inb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

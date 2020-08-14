@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MoviesListActivity"
+    tools:showIn="@layout/activity_movies_list">
+
+    <GridView  xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:verticalSpacing="1dp"
+        android:horizontalSpacing="1dp"
+        android:numColumns="auto_fit"
+        android:columnWidth="85dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center" />
+
+</androidx.core.widget.NestedScrollView>
